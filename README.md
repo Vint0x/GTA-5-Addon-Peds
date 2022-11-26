@@ -6,7 +6,7 @@ You can either watch the tutorial video or read these instructions. I have made 
 ---------------------
 1. Drag & drop 'scripts', 'AddonPeds Editor.exe' and 'AddonPedsVars.xml' from the "AddonPeds" folder into your GTA 5 directory.
 2. Place 'addonpeds' into "mods\update\x64\dlcpacks".
-3. Go to "mods\update\x64\dlcpacks\addonpeds\dlc.rpf\peds.rpf" and drop your addon ped into the folder. (If there are any other unwanted files, then delete them).
+3. Go to "mods\update\x64\dlcpacks\addonpeds\dlc.rpf\peds.rpf" and drop your addon ped into the folder. (If there are any other unwanted files, delete them).
 4. Launch 'AddonPeds Editor.exe' from the directory as ADMINISTRATOR.
 5. Click on 'Peds' then click on 'New Ped' and enter the name of your ped (AS IT IS IN THEIR FOLDER). Select the ped type. Select if ped 'Is Streamed' (true/false).
 6. Click 'Add Ped' and then 'Rebuild'.
