@@ -1,0 +1,65 @@
+<!--
+ ===============================================
+   AddonPeds Editor 3.0
+   2016 - 2017 (C) by Meth0d - http://meth0d.org
+ ===============================================
+   Variables XML File - This file contains software form variables.
+   Feel free to edit, but with caution.
+ ===============================================
+-->
+<AddonPeds_Vars>
+   
+   <ClipDictionaryName>
+      <Item>move_f@generic</Item>
+	  <Item>move_m@generic</Item>
+	  <Item>move_m@tool_belt@a</Item>
+	  <Item>move_m@shy@a</Item>
+   </ClipDictionaryName>
+   
+   <MovementClipSet>
+      <Item>move_f@generic</Item>
+	  <Item>move_m@generic</Item>
+	  <Item>move_f@heels@d</Item>
+	  <Item>move_f@chubby@a</Item>
+	  <Item>move_chubby</Item>
+	  <Item>move_m@gangster@var_c</Item>
+	  <Item>move_m@gangster@var_a</Item>
+	  <Item>move_f@sexy@a</Item>
+	  <Item>move_m@business@c</Item>
+	  <Item>move_m@tool_belt@a</Item>
+	  <Item>move_m@shy@a</Item>
+   </MovementClipSet>
+   
+   <CreatureMetadataName>
+      <Item>null</Item>
+	  <Item>ambientPed_upperWrinkles</Item>
+	  <Item>3Lateral_Facial</Item>
+	  <Item>MP_CreatureMetadata</Item>
+   </CreatureMetadataName>
+   
+   <DecisionMakerName>
+      <Item>DEFAULT</Item>
+	  <Item>GANG</Item>
+	  <Item>COP</Item>
+   </DecisionMakerName>
+   
+   <Personality>
+      <Item>Streamed_Male</Item>
+	  <Item>Streamed_Female</Item>
+	  <Item>FitnessMale</Item>
+	  <Item>FitnessFemale</Item>
+	  <Item>VAGOS</Item>
+	  <Item>MERRYWEATHER</Item>
+	  <Item>SERVICEMALES</Item>
+	  <Item>SERVICEFEMALES</Item>
+	  <Item>YOUNGAVERAGETOUGHWOMAN</Item>
+	  <Item>CONSTRUCTION</Item>
+   </Personality>
+   
+   <CombatInfo>
+      <Item>DEFAULT</Item>
+	  <Item>GANG</Item>
+	  <Item>ARMY</Item>
+   </CombatInfo>
+   
+</AddonPeds_Vars>
